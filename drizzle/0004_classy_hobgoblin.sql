@@ -1,0 +1,1 @@
+ALTER TABLE `instructionScripts` ADD `isActive` boolean DEFAULT false NOT NULL;

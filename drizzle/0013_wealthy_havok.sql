@@ -1,0 +1,1 @@
+ALTER TABLE `scriptProfileVersions` ADD `isFavorite` boolean DEFAULT false NOT NULL;

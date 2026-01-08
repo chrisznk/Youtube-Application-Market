@@ -1,0 +1,125 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763919349176,
+      "tag": "0000_dear_justin_hammer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763926507692,
+      "tag": "0001_petite_lila_cheney",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763932364381,
+      "tag": "0002_sweet_lucky_pierre",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1765811478860,
+      "tag": "0003_glossy_bucky",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1765817733344,
+      "tag": "0004_classy_hobgoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1765819145156,
+      "tag": "0005_daily_marvex",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1765825915689,
+      "tag": "0006_magenta_nemesis",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1765995343291,
+      "tag": "0007_sad_ink",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1765995830490,
+      "tag": "0008_omniscient_sumo",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1765996002972,
+      "tag": "0009_fuzzy_blazing_skull",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1765998119595,
+      "tag": "0010_giant_jubilee",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1765998938772,
+      "tag": "0011_burly_omega_red",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1766001504735,
+      "tag": "0012_eager_bullseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1766002781020,
+      "tag": "0013_wealthy_havok",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1766004165058,
+      "tag": "0014_colorful_gunslinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "5",
+      "when": 1766090746047,
+      "tag": "0015_romantic_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "5",
+      "when": 1766357568823,
+      "tag": "0016_magenta_johnny_storm",
+      "breakpoints": true
+    }
+  ]
+}

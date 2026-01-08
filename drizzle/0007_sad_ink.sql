@@ -1,0 +1,1 @@
+ALTER TABLE `coordinationScripts` MODIFY COLUMN `scriptType` enum('thumbnail_generation','title_generation','description_generation','strategy_generation','title_and_thumbnail_generation','script_writing') NOT NULL;

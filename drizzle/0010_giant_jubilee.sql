@@ -1,0 +1,1 @@
+ALTER TABLE `scriptProfiles` ADD `tags` json;
